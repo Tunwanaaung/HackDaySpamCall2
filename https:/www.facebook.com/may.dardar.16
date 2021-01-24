@@ -1,4 +1,4 @@
-import os,sys,time,requests,random,json,re
+Limport os,sys,time,requests,random,json,re
 from time import sleep
 os.system('clear')
 class kntl():
